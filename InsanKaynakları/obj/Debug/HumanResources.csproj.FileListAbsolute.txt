@@ -1,0 +1,3 @@
+D:\BELGELER\Dersler\4.YARIYIL\VERİ YAPILARI\Proje\Odev3\Odev3\InsanKaynakları\bin\Debug\InsanKaynakları.exe.config
+D:\BELGELER\Dersler\4.YARIYIL\VERİ YAPILARI\Proje\Odev3\Odev3\InsanKaynakları\obj\Debug\InsanKaynakları.exe
+D:\BELGELER\Dersler\4.YARIYIL\VERİ YAPILARI\Proje\Odev3\Odev3\InsanKaynakları\obj\Debug\InsanKaynakları.pdb
